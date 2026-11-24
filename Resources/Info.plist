@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>ShotShelf</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.pax.shotshelf</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>ShotShelf</string>
+	<key>CFBundleDisplayName</key>
+	<string>ShotShelf</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSSupportsAutomaticTermination</key>
+	<false/>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>ShotShelf watches your screenshot folder so new screenshots show up in the menu bar shelf.</string>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>ShotShelf can show screenshots saved to your Desktop.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>ShotShelf can show images saved to your Downloads folder.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>ShotShelf</string>
+</dict>
+</plist>
